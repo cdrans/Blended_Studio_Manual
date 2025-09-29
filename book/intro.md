@@ -1,8 +1,6 @@
 (intro)=
-# Welcome to the Blended Studio Manual
+# Welcome to the Template Book
 
-_This is the first page staff will see when opening the url._
+_This is the first page the student will see when opening the url._
 
-PLACE WELCOME TEXT HERE
-
-The rest of the navigation of the book is currently the TeachBooks Template. Once the book structure is planned, the template elements will be replaced with a skeleton outline of the Blended Studio Manual.
+This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
