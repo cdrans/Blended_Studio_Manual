@@ -20,6 +20,7 @@ html:
 sphinx:                                              # Options passed on to the underlying sphinx-parser
   extra_extensions:                                  # Sets a list of extensions to load by sphinx, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
     - teachbooks_favourites                          # Gives you a starter package of extensions to use in your book, replace with individual extensions if you prefer some extensions not to be included (https://github.com/TeachBooks/TeachBooks-Favourites)
+    - teachbooks_software_project_extension_name
   local_extension: null                              # Sets a a list of local extensions to load by sphinx, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
   config:
     language: en                                     # Defines language (English) of everything except the content itself. For Dutch: replace with `nl`, configuration part of Sphinx (https://www.sphinx-doc.org/en/master/index.html)
@@ -109,4 +110,3 @@ parse:
   myst_url_schemes: [mailto, http, https]            # Default value (lines can be removed), sets URI schemes that will be recognised as external URLs in Markdown links, configuration part of MyST parser (https://myst-parser.readthedocs.io/en/latest/syntax/optional.html)
   myst_dmath_double_inline: true                     # Default value (lines can be removed), allows display math ($$) within an inline context, configuration part of MyST parser (https://myst-parser.readthedocs.io/en/latest/syntax/optional.html)
 
-- teachbooks_software_project_extension_name
