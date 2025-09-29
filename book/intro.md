@@ -1,6 +1,6 @@
 +++
-# Welcome to the Template Book
+# Blended Studio User Manual
 
-*This is the first page the student will see when opening the url.*
+Welcome to the user manual for the Blended Recording Studio located in Room 2.1 of the Teaching Lab. This manual is a work in progress and is to be considered a working draft until an official release is made.
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going! Testing the WYSIWYG editor.
+For now, the pages of the book contain the TeachBook template pages. Approved authors are free to play around with the book and try adding and modifying pages as per the [Teachbook Manual](https://teachbooks.io/manual/intro/book.html "https://teachbooks.io/manual/intro/book.html") instructions.
