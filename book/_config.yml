@@ -1,6 +1,5 @@
-title: Blended Learning Recording Studio Manual                        # Replace this with your own book title
-author: Calvin Rans
-                                                     # Replace TeachBooks Teams with your own name in the line above
+title: Blended Learning Recording Studio Manual      # Replace this with your own book title
+author: Calvin Rans # Replace TeachBooks Teams with your own name in the line above
 
 execute:
   execute_notebooks: "off"                           # Replace this if you want don't have notebooks with output and you want to add notebook output during build
@@ -10,7 +9,7 @@ only_build_toc_files: true                           # Replace this with false i
 
 html:
   favicon : "figures/TB_favicon.ico"                 # Replace this with your own favicon
-  baseurl :  "https://cdrans.github.io/Blended_Studio_Manual/"          # Replace this with your own URL
+  baseurl :  "https://cdrans.github.io/Blended_Studio_Manual/"  # Replace this with your own URL
 
 sphinx:                                              # Options passed on to the underlying sphinx-parser
   config:
